@@ -1,0 +1,7 @@
+simple-db-migrate (1.5.2) pokermania; urgency=low
+
+  * Initial Debian release. 
+
+ -- Andor Goetzendorff <andor@pokermania.de>  Mon, 19 Nov 2012 12:40:00 +0200
+
+

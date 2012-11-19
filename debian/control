@@ -1,0 +1,20 @@
+Source: simple-db-migrate
+Section: python
+Priority: extra
+Maintainer: Andor Goetzendorff <andor@pokermania.de>
+X-Python-Version: >= 2.6, << 3.0
+Build-Depends:
+    debhelper,
+    python-all
+Standards-Version: 3.8.3
+Homepage: http://github.com/pokermania/poker-network
+
+Package: simple-db-migrate
+Section: python
+Architecture: all
+Provides: ${python:Provides}
+Depends:
+    ${misc:Depends},
+    ${python:Depends}
+Description: simple db migrations for python
+ simple db migrations for python
